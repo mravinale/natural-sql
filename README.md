@@ -51,13 +51,10 @@ docker run -p 3000:3000 natural-sql
 
 This will start a Uvicorn server inside a Docker container, which will be accessible on `http://localhost:3000`.
 
-### Demo
-
-[natural-sql-api](https://natural-sql.vercel.app/docs)
 
 ## Authors
 
-* **Mariano Ravinale** - *Co-founder Tierone* - [GitHub](https://github.com/mravinale)
+* **Mariano Ravinale**  - [GitHub](https://github.com/mravinale)
 
 ## License
 
